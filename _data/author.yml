@@ -1,0 +1,23 @@
+name: Ji Heon
+dp: https://user-images.githubusercontent.com/90181028/212545226-968ba0b6-b3cb-4e41-831c-5c2e6fc784e7.jpg
+description: "
+  <p>
+    Frontend Developer
+  </p>
+  <br/>
+  <p>
+    기록되지 않은 것은 기억되지 않는다.
+  </P>
+"
+email: dev_sharad@outlook.com
+contact:
+  # - title: linkedin
+  #   url: https://www.linkedin.com/in/srsmaurya
+  - title: github
+    url: https://github.com/jiheon788
+  # - title: twitter
+  #   url: https://twitter.com/iamsharadraj
+  # - title: dev
+  #   url: https://dev.to/sharadcodes
+  - title: email
+    url: mailto:jiheon788@ajou.ac.kr
