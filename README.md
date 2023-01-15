@@ -1,8 +1,11 @@
-# jiheon788.log
+# [jiheon788.log](https://jiheon788.github.io)
 
 > 개인 블로그
 
 ![jiheon788 github io_](https://user-images.githubusercontent.com/90181028/212561105-606a3551-0e10-43f2-911f-38cb4a347dac.png)
+
+<br>
+<br>
 
 - [sharadcodes/jekyll-theme-material-you](https://github.com/sharadcodes/jekyll-theme-material-you) 테마 바탕으로 제 필요에 의해 기능과 디자인을 커스텀한 블로그입니다.
 
