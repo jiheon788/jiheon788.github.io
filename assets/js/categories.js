@@ -15,7 +15,6 @@ window.onload = function () {
         html += `
         <a class="modal-article" href="${post.url}">
           <h4>${post.title}</h4>
-          <p>${post.summary}</p>
           <small class="modal-article-date">${post.date}</small>
         </a>
         `
