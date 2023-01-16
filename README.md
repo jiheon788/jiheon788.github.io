@@ -4,8 +4,10 @@
 
 ![jiheon788 github io_ (1)](https://user-images.githubusercontent.com/90181028/212619651-209b2001-5aa1-42e0-b77e-788d1aeb2e16.png)
 
+- [jekyll-theme-material-you](https://github.com/sharadcodes/jekyll-theme-material-you) 테마 바탕으로 제 필요에 의해 기능과 디자인을 커스텀한 블로그입니다.
+  <br>
 
-<br>
+---
 
 ## Getting started
 
