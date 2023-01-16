@@ -86,7 +86,7 @@ blockquote {
 }
 .article-content strong {
   font-weight: bold;
-  color: var(--bg-dm-secondary);
+  color: var(--text-dm-secondary);
 }
 .article-content ul {
   margin-left: 1rem;
