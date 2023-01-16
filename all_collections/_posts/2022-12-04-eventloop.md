@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Event Loop 이란?
-date: 2022-12-04 23:18:00
+date: 2022-12-04
 summary: Event Loop에 대하여 알아보자
 categories: ["JavaScript"]
 ---
