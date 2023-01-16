@@ -85,8 +85,8 @@ blockquote {
   color: var(--text-dm-secondary);
 }
 .article-content strong {
-  font-weight: bold;
-  color: var(--text-dm-secondary);
+  font-weight: 900;
+  color: var(--text-dm-primary) !important;
 }
 .article-content ul {
   margin-left: 1rem;
