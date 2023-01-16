@@ -1,7 +1,7 @@
 ---
 ---
 
-const categories = { {% for category in site.categories %}{% capture category_name %}{{ category | first }}{% endcapture %}{{ category_name | replace: " ", "_" }}: [{% for post in site.categories[category_name] %}{ url: `{{ site.baseurl }}{{ post.url }}`, date: `{{post.date | date_to_string}}`, title: `{{post.title}}`},{% endfor %}],{% endfor %} }
+const categories = { {% for category in site.categories %}{% capture category_name %}{{ category | first }}{% endcapture %}{{ category_name | replace: " ", "_" }}: [{% for post in site.categories[category_name] %}{ url: `{{ site.baseurl }}{{ post.url }}`, date: `{{post.date | date_to_string}}`, title: `{{post.title}}`, summary:`{{post.summary}}`},{% endfor %}],{% endfor %} }
 
 console.log(categories);
 
@@ -15,6 +15,7 @@ window.onload = function () {
         html += `
         <a class="modal-article" href="${post.url}">
           <h4>${post.title}</h4>
+          <p>${post.summary}</p>
           <small class="modal-article-date">${post.date}</small>
         </a>
         `

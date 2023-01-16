@@ -1,22 +1,25 @@
 <section id="social-links">
-{% for i in site.data.author.contact %}
+  {% for i in site.data.author.contact %}
   <a href="{{i.url}}" target="_blank">
     <img src="{{site.baseurl}}/assets/icons/{{i.title}}.svg" alt="" />
   </a>
-{%endfor%}
+  {%endfor%}
 </section>
 
 <section id="category-links">
   {% for post in site.posts %}
-    {% for c in post.categories %}
-    <h1>
+  {% for c in post.categories %}
+  <button type="button" class="article-category tag">
+    {{c}}
+  </button>
+  <!-- <h1>
       <a
         href="#!"
         data-base-url="{{site.baseurl}}"
         class="article-category tag"
         >{{c}}</a
       >
-    </h1>
-    {% endfor %}
+    </h1> -->
+  {% endfor %}
   {% endfor %}
 </section>

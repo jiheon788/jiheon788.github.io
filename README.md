@@ -7,20 +7,18 @@
 <br>
 <br>
 
-- [sharadcodes/jekyll-theme-material-you](https://github.com/sharadcodes/jekyll-theme-material-you) 테마 바탕으로 제 필요에 의해 기능과 디자인을 커스텀한 블로그입니다.
-
 ## Getting started
 
-#### Run
+#### Install
 
 ```
-$ bundle install
+bundle install
 ```
 
 #### Start Jekyll server
 
 ```
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ```
 
 #### Access via
@@ -35,6 +33,8 @@ $ bundle exec jekyll serve
 
 - Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
 - **Avoid having spaces in category name** because they break the category posts modal's code. You can use underscore instead of them.
+
+<br><br>
 
 ---
 
@@ -63,4 +63,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-

@@ -1,5 +1,5 @@
 body {
-  background: radial-gradient(circle at 80% top, #2f1d37, #0b1120 5%);
+  background: radial-gradient(circle at 80% top, #183350, #0b1120 5%);
 }
 
 #article .article-thumbnail {
@@ -16,9 +16,10 @@ body {
 
 #article .article-thumbnail .article-title {
   font-size: 2rem !important;
-  color: var(--dm-contrast);
+  color: var(--text-dm-white);
   text-shadow: 0px 0px 3px var(--bg-dm-primary);
   line-height: 120%;
+  margin: 0 0 1.2rem 0;
 }
 
 /* #article .article-date {
@@ -76,12 +77,12 @@ body {
   margin: 1.75rem 0;
   font-weight: bolder !important;
 }
-.article-content blockquote {
-  padding-left: 1.42188rem;
+blockquote {
+  padding-left: 1.2rem;
   margin-bottom: 1.75rem;
   font-style: italic;
-  font-weight: 100;
   border-left: 0.3rem solid var(--dm-contrast);
+  color: var(--text-dm-secondary);
 }
 .article-content strong {
   font-weight: bold;
