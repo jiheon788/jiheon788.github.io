@@ -2,9 +2,9 @@
 
 > 개인 블로그
 
-![jiheon788 github io_](https://user-images.githubusercontent.com/90181028/212561105-606a3551-0e10-43f2-911f-38cb4a347dac.png)
+![jiheon788 github io_ (1)](https://user-images.githubusercontent.com/90181028/212619651-209b2001-5aa1-42e0-b77e-788d1aeb2e16.png)
 
-<br>
+
 <br>
 
 ## Getting started
