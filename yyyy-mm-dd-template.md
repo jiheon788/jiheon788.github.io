@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date: 2023-01-05 23:18:00
+date: 2023-01-05
 summary:
 categories: [""]
 ---
